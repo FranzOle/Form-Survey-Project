@@ -1,0 +1,6 @@
+*Planning Aplikasi Pembuat Form Survey UKOM 2k24*
+1. Setup Laravel (Buat database, Migrasi) -Done
+2. Setup Frontend React dengan ViteJS -Done
+3. Setup HeroIcons untuk Ikon -Done
+4. Membuat Form Login dan Signup -Done
+5. Membuat Routes React -Done
