@@ -4,3 +4,6 @@
 3. Setup HeroIcons untuk Ikon -Done
 4. Membuat Form Login dan Signup -Done
 5. Membuat Routes React -Done
+6. Membuat Child React -Done
+7. Membuat Default Layout -Done
+8. Membuat Page Component -Done
