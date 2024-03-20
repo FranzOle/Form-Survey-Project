@@ -6,6 +6,7 @@ import Login from './views/Login.jsx'
 import Team from './views/Team.jsx'
 import GuestLayout from './components/GuestLayout'
 import DefaultLayout from './components/DefaultLayout';
+import SurveyView from './views/SurveyView';
 
 const router = createBrowserRouter([
 
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: '/surveys',
         element: <Surveys />
+      },
+      {
+        path: '/surveys/create',
+        element: <SurveyView />
       },
       {
         path: '/team',
